@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.display {
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.none {
+  display: none;
+}
